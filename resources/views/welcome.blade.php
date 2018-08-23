@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel 估价报告管理系统
                 </div>
 
                 <div class="links">
